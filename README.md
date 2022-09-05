@@ -2,7 +2,7 @@
 
 Games with Yew
 
-**TBD!**
+**TBD...**
 
-[x] - Counter App for starters
-[ ] - Sudoku App
+- [x] Counter App for starters
+- [ ] Sudoku App
